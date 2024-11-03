@@ -19,7 +19,9 @@ Para esta actividad, haga una captura de pantalla del resultado de la ejecución
 ## Resultados
 
 <img width="184" alt="image" src="https://github.com/user-attachments/assets/cb2ab5d9-a13e-4fae-b777-99f03c94be48">
+<img width="171" alt="image" src="https://github.com/user-attachments/assets/3553f7b3-9016-4dee-b4b6-d2e5e47dcc82">
 
 
 ## Codigo
 -  [Ejercicio 7](https://github.com/Desarrollo-Aplicaciones-Web-y-Moviles/Actividad-Previa-07/tree/main/C03E07)
+- [Ejercicio 1](https://github.com/Desarrollo-Aplicaciones-Web-y-Moviles/Actividad-Previa-07/tree/main/src)
