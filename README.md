@@ -29,4 +29,4 @@ Para esta actividad, haga una captura de pantalla del resultado de la ejecución
 -  [Ejercicio 7](https://github.com/Desarrollo-Aplicaciones-Web-y-Moviles/Actividad-Previa-07/tree/main/C03E07)
 - [Ejercicio 1](https://github.com/Desarrollo-Aplicaciones-Web-y-Moviles/Actividad-Previa-07/tree/main/src)
 - [Ejercicio 2](https://github.com/Desarrollo-Aplicaciones-Web-y-Moviles/Actividad-Previa-07/tree/main/C04E02)
-- [Ejercicio 2](https://github.com/Desarrollo-Aplicaciones-Web-y-Moviles/Actividad-Previa-07/tree/main/C04E03)
+- [Ejercicio 3](https://github.com/Desarrollo-Aplicaciones-Web-y-Moviles/Actividad-Previa-07/tree/main/C04E03)
