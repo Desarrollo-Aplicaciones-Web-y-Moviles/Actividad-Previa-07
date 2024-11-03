@@ -19,9 +19,11 @@ Para esta actividad, haga una captura de pantalla del resultado de la ejecución
 ## Resultados
 
 <img width="184" alt="image" src="https://github.com/user-attachments/assets/cb2ab5d9-a13e-4fae-b777-99f03c94be48">
-<img width="171" alt="image" src="https://github.com/user-attachments/assets/3553f7b3-9016-4dee-b4b6-d2e5e47dcc82">
-<img width="173" alt="image" src="https://github.com/user-attachments/assets/ef8d951e-6254-4664-b55b-1a8268ea849c">
-<img width="173" alt="image" src="https://github.com/user-attachments/assets/8a2dd02c-9d68-4789-885b-8dfbc6a940bf">
+<img width="184" alt="image" src="https://github.com/user-attachments/assets/3553f7b3-9016-4dee-b4b6-d2e5e47dcc82">
+<img width="184" alt="image" src="https://github.com/user-attachments/assets/ef8d951e-6254-4664-b55b-1a8268ea849c">
+<img width="184" alt="image" src="https://github.com/user-attachments/assets/8a2dd02c-9d68-4789-885b-8dfbc6a940bf">
+<img width="184" alt="image" src="https://github.com/user-attachments/assets/0fbbc2d0-b4b4-47fc-97c7-9cee8c41e06e">
+
 
 
 
@@ -30,3 +32,4 @@ Para esta actividad, haga una captura de pantalla del resultado de la ejecución
 - [Ejercicio 1](https://github.com/Desarrollo-Aplicaciones-Web-y-Moviles/Actividad-Previa-07/tree/main/src)
 - [Ejercicio 2](https://github.com/Desarrollo-Aplicaciones-Web-y-Moviles/Actividad-Previa-07/tree/main/C04E02)
 - [Ejercicio 3](https://github.com/Desarrollo-Aplicaciones-Web-y-Moviles/Actividad-Previa-07/tree/main/C04E03)
+- [Ejercicio 4](https://github.com/Desarrollo-Aplicaciones-Web-y-Moviles/Actividad-Previa-07/tree/main/C04E04)
