@@ -18,8 +18,8 @@ Para esta actividad, haga una captura de pantalla del resultado de la ejecución
 
 ## Resultados
 
-<img width="184" alt="image" src="https://github.com/user-attachments/assets/fb732928-e3b0-4c27-97d5-b57ef8ec8aee">
+<img width="184" alt="image" src="https://github.com/user-attachments/assets/cb2ab5d9-a13e-4fae-b777-99f03c94be48">
 
 
 ## Codigo
--  [Ejercicio 6](https://github.com/Desarrollo-Aplicaciones-Web-y-Moviles/Actividad-Previa-06/tree/main/C03E06)
+-  [Ejercicio 7](https://github.com/Desarrollo-Aplicaciones-Web-y-Moviles/Actividad-Previa-07/tree/main/C03E07)
